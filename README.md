@@ -1,2 +1,2 @@
 # gmc-sound
-experiments with sound change
+adventures in sound change
